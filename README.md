@@ -23,3 +23,4 @@ I'd love to have contributors, all feedback is welcome! Take a look at [CONTRIBU
     - [x] [Day 11: 2D Arrays](30DaysOfCode/Day11.py)
     - [x] [Day 12: Inheritance](30DaysOfCode/Day12.py)
     - [x] [Day 13: Abstract Classes](30DaysOfCode/Day13.py)
+    - [x] [Day 14: Scope](30DaysOfCode/Day14.py)
