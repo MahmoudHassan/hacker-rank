@@ -68,9 +68,7 @@ class Student(Person):
     #
     # Write your constructor here
     def __init__(self, firstName, lastName, idNum, scores):
-        Person.firstName = firstName
-        Person.lastName = lastName
-        Person.idNumber = idNum
+        Person.__init__(self, firstName, lastName, idNum)
         self.average = sum(scores) / len(scores)
 
     #   Function Name: calculate
