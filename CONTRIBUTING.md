@@ -6,7 +6,7 @@ You can submit a pull request, create an issue, or provide any type of feedback.
 ## Get Started
 First [fork][fork] the repository and then clone it using:
 
-    git clone git@github.com:your-username/algorithms.git
+    git clone git@github.com:MahmoudHassan/hacker-rank.git
 
 You may contribute by:
 - implementing new algorithms in the repo. 
