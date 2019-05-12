@@ -25,3 +25,6 @@ I'd love to have contributors, all feedback is welcome! Take a look at [CONTRIBU
     * [Day 13: Abstract Classes](30DaysOfCode/Day13.py)
     * [Day 14: Scope](30DaysOfCode/Day14.py)
     * [Day 15: Linked List](30DaysOfCode/Day15.py)
+    * [Day 16: Exceptions - String to Integer](30DaysOfCode/Day16.py)
+    * [Day 17: More Exceptions](30DaysOfCode/Day17.py)
+    * [Day 18: Queues and Stacks](30DaysOfCode/Day18.py)

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="160fbdc6-4322-4b5c-9d07-7caeff7866fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/30DaysOfCode/Day15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30DaysOfCode/Day18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -12,13 +12,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hacker-rank" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="421">
+              <first_editor relative-caret-position="148">
                 <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
               </first_editor>
               <second_editor />
@@ -26,7 +29,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day18.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-850">
+              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day16.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day17.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day15.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="406">
@@ -75,33 +105,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -144,8 +147,11 @@
         <option value="$PROJECT_DIR$/30DaysOfCode/Day12.py" />
         <option value="$PROJECT_DIR$/30DaysOfCode/Day13.py" />
         <option value="$PROJECT_DIR$/30DaysOfCode/Day14.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/30DaysOfCode/Day15.py" />
+        <option value="$PROJECT_DIR$/30DaysOfCode/Day16.py" />
+        <option value="$PROJECT_DIR$/30DaysOfCode/Day17.py" />
+        <option value="$PROJECT_DIR$/30DaysOfCode/Day18.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -285,7 +291,28 @@
       <option name="project" value="LOCAL" />
       <updated>1557583283762</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Day 15: Linked List">
+      <created>1557667807813</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557667807814</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Day 17: More Exceptions">
+      <created>1557670198366</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1557670198366</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Day 16: Exceptions - String to Integer">
+      <created>1557670246825</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1557670246825</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -301,9 +328,9 @@
     <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49649122" visible="true" weight="0.16060807" />
-      <window_info id="Structure" order="1" sideWeight="0.50350875" side_tool="true" visible="true" weight="0.16060807" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497006" visible="true" weight="0.16060807" />
+      <window_info id="Structure" order="1" sideWeight="0.502994" side_tool="true" weight="0.16060807" />
+      <window_info id="Favorites" order="2" sideWeight="0.502994" side_tool="true" visible="true" weight="0.16060807" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -313,8 +340,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4976867" weight="0.296034" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4990086" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50231326" side_tool="true" visible="true" weight="0.19263457" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4976867" visible="true" weight="0.19263457" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50231326" side_tool="true" visible="true" weight="0.52691215" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4976867" visible="true" weight="0.52691215" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -384,7 +411,10 @@
     <MESSAGE value="30DaysOfCode/Day13.py" />
     <MESSAGE value="Day 14: Scope" />
     <MESSAGE value="Markdown tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Markdown tree" />
+    <MESSAGE value="Day 15: Linked List" />
+    <MESSAGE value="Day 17: More Exceptions" />
+    <MESSAGE value="Day 16: Exceptions - String to Integer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 16: Exceptions - String to Integer" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day1.py">
@@ -517,20 +547,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="421">
-            <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day15.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="148">
+            <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
