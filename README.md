@@ -24,3 +24,4 @@ I'd love to have contributors, all feedback is welcome! Take a look at [CONTRIBU
     * [Day 12: Inheritance](30DaysOfCode/Day12.py)
     * [Day 13: Abstract Classes](30DaysOfCode/Day13.py)
     * [Day 14: Scope](30DaysOfCode/Day14.py)
+    * [Day 15: Linked List](30DaysOfCode/Day15.py)
