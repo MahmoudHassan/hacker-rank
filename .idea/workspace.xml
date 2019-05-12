@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="160fbdc6-4322-4b5c-9d07-7caeff7866fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/30DaysOfCode/Day18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30DaysOfCode/Day19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30DaysOfCode/Day20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -17,14 +18,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="148">
-                <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+              <first_editor relative-caret-position="233">
+                <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day20.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day19.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -75,18 +94,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="137">
-                <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day13.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
@@ -100,18 +107,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="78" column="14" lean-forward="true" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="55" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="55" />
-              <folding>
-                <element signature="e#503#514#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -151,7 +146,9 @@
         <option value="$PROJECT_DIR$/30DaysOfCode/Day16.py" />
         <option value="$PROJECT_DIR$/30DaysOfCode/Day17.py" />
         <option value="$PROJECT_DIR$/30DaysOfCode/Day18.py" />
+        <option value="$PROJECT_DIR$/30DaysOfCode/Day19.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/30DaysOfCode/Day20.py" />
       </list>
     </option>
   </component>
@@ -312,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557670246825</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Day 18: Queues and Stacks">
+      <created>1557671786763</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557671786763</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -414,7 +418,8 @@
     <MESSAGE value="Day 15: Linked List" />
     <MESSAGE value="Day 17: More Exceptions" />
     <MESSAGE value="Day 16: Exceptions - String to Integer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 16: Exceptions - String to Integer" />
+    <MESSAGE value="Day 18: Queues and Stacks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 18: Queues and Stacks" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day1.py">
@@ -575,13 +580,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="148">
-            <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <first_editor relative-caret-position="233">
+            <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/30DaysOfCode/Day20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
         </state>
       </provider>
     </entry>

@@ -28,3 +28,5 @@ I'd love to have contributors, all feedback is welcome! Take a look at [CONTRIBU
     * [Day 16: Exceptions - String to Integer](30DaysOfCode/Day16.py)
     * [Day 17: More Exceptions](30DaysOfCode/Day17.py)
     * [Day 18: Queues and Stacks](30DaysOfCode/Day18.py)
+    * [Day 19: Interfaces](30DaysOfCode/Day19.py)
+    * [Day 20: Sorting](30DaysOfCode/Day20.py)
